@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 编辑器
+.idea/
+*.swp
+
+# 系统
+Thumbs.db
+desktop.ini

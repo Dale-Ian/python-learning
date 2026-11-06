@@ -1,0 +1,6 @@
+numpy>=2.0
+pandas>=2.2,<3.0
+matplotlib>=3.9
+openpyxl>=3.1
+requests>=2.32
+jupyterlab>=4.0
